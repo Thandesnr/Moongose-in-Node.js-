@@ -1,0 +1,16 @@
+{
+  "name": "databasescd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_create_mongo_db.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
