@@ -1,5 +1,5 @@
 # Moongose-in-Node.js-
-i made a simple js file using the following feature
+I made a simple js file using the following features
 - Mongoose basics
 - Schema Types
 - Schema Validation
